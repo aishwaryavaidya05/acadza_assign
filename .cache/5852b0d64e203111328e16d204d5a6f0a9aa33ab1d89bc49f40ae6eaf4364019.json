@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "C", "working": "C = ε0εrA/d = 8.85×10⁻¹²×10×1/1×10⁻³ = 8.85×10⁻⁸ F.  I_d = C·dV/dt = 8.85×10⁻⁸ F × 25 V/s = 2.2125×10⁻⁶ A ≈ 2.2 µA.  Option C matches.", "problem": ""}

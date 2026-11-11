@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "1", "working": "For a point charge on a surface, half the flux enters the volume; for a corner charge, one‑eighth enters. Thus enclosed charge = (q/2)(1/2)+(2q)(1/8)=q/4+q/4=q/2. Flux = Q/ε0 = (q/2)/ε0 = (1·q)/(2ε0). Hence n=1.", "problem": ""}

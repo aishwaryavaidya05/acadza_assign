@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "D", "working": "Force magnitude F = k|q1q2|/r^2. Since r is same for both, ratio F1:F2 = |q1|:|q2| = 3μC:4μC = 3:4. Checking options: A 9:16, B 2:√3, C missing, D 3:4. Thus D is correct.", "problem": ""}

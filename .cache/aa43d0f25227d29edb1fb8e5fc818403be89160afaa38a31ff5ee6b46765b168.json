@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "D", "working": "ω = 2π/T = 2π/16 = π/8 rad/s. At t=2 s, ωt = π/4, cos(π/4)=√2/2. v = Aω|cos(ωt)| ⇒ A = v/(ω cos(π/4)) = π / ((π/8)(√2/2)) = 16/√2 = 8√2 m. Option D matches.", "problem": ""}

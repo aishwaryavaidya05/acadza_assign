@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "A", "working": "In a series LCR circuit, supply voltage is the phasor sum: V_supply = √(V_R² + (V_L – V_C)²). Here V_R=40 V, V_L=60 V, V_C=30 V → V_supply=√(40²+(60–30)²)=√(1600+900)=√2500=50 V. Checking options: only 50 V matches.", "problem": ""}

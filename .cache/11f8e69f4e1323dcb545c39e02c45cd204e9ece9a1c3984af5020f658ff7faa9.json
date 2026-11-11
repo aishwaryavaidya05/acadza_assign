@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "A", "working": "m=100/10=10kg. Equations: F-100μ=10 and 2F-100μ=100. Solve: 10+100μ=50+50μ → μ=0.8. Check: F=90N, 2F=180N, accelerations 1 and 10 m/s^2 respectively. Works.", "problem": ""}

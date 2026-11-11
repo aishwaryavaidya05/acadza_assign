@@ -1,0 +1,1 @@
+{"verdict": "app_issue", "repair": null, "edit": null, "confidence": 0.92, "evidence": "The stored key is A, which matches independent solves. The student reports that the platform recorded B, indicating a recording glitch.", "student_reply": "Hey! It looks like the app saved the wrong option. The correct answer is (A). We'll look into the glitch and fix it soon."}

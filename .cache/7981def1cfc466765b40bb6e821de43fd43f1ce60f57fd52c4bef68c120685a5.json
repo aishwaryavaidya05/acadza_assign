@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "B", "working": "Range R = v² sin2θ / g, Height H = v² sin²θ / (2g). Setting R = H gives sin2θ = sin²θ / 2. Using sin2θ = 2 sinθ cosθ, we get 4 sinθ cosθ = sin²θ → 4 cosθ = sinθ → tanθ = 4. Thus θ = tan⁻¹(4).", "problem": ""}

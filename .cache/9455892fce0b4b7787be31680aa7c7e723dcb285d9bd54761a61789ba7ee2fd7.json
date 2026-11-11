@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "B", "working": "V(t)=200 sin(100t), I(t)=5 sin(100t-π/2)=5 cos(100t). The phase difference φ=90°. Average power P=V_rms I_rms cosφ= (200/√2)(5/√2)(0)=0 W.", "problem": ""}

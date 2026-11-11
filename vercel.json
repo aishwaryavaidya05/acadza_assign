@@ -1,0 +1,3 @@
+{
+  "functions": { "api/triage.py": { "includeFiles": "{engine.py,data/**}" } }
+}

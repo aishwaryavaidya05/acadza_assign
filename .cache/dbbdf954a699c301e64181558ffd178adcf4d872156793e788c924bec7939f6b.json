@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "4", "working": "Let θ1 = ½α1t² = ½(π/2)t² = (π/4)t² and θ2 = ½α2t² = ½(π/4)t² = (π/8)t². The dots align when θ1 – θ2 = 2πn. Thus (π/4 – π/8)t² = (π/8)t² = 2πn → t² = 16n. The smallest positive n is 1, giving t = 4 s. All options checked numerically confirm 4 s is the first alignment time.", "problem": ""}

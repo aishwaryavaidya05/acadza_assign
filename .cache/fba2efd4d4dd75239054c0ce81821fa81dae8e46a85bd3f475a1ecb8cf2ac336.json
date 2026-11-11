@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "B", "working": "KE = h²/(2mλ²) = (6.626×10⁻³⁴)² / [2×9.11×10⁻³¹×(3×10⁻¹⁰)²] ≈ 2.68×10⁻¹⁸ J. Converting to eV: 2.68×10⁻¹⁸ J ÷ 1.602×10⁻¹⁹ J/eV ≈ 16.7 eV, which matches option (B).", "problem": ""}

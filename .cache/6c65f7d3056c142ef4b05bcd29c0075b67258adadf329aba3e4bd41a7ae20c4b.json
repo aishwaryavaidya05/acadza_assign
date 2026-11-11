@@ -1,0 +1,1 @@
+{"verdict": "defect", "repair": "answer_key", "edit": {"field": "answer", "find": "2", "replace": "1"}, "confidence": 0.98, "evidence": "Both independent solves compute total flux q/(2ε0) which matches (nq)/(2ε0) only if n=1, not 2.", "student_reply": "Hey! The key was wrong – the correct answer is 1. Thanks for pointing it out!"}

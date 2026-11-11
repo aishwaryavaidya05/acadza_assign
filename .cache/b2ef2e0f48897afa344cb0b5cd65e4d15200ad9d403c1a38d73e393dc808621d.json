@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "B", "working": "λ = 0.3 nm = 3×10⁻¹⁰ m. Momentum p = h/λ = 6.626×10⁻³⁴ / 3×10⁻¹⁰ ≈ 2.21×10⁻²⁴ kg·m/s. Kinetic energy KE = p²/(2m_e) = (2.21×10⁻²⁴)² / (2×9.11×10⁻³¹) ≈ 2.68×10⁻¹⁸ J. Converting to eV: 2.68×10⁻¹⁸ J ÷ 1.602×10⁻¹⁹ J/eV ≈ 16.7 eV, which matches option (B).", "problem": ""}

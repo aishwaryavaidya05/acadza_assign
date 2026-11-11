@@ -1,0 +1,19 @@
+# secrets / environments
+.env
+.env/
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+
+# local run logs
+runs/
+
+# vercel
+.vercel/
+
+# editor/os
+.vscode/
+.DS_Store

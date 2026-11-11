@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "A", "working": "K = p^2/(2m). If K_new = 4K_initial, then p_new^2 = 4p_initial^2 ⇒ p_new = 2p_initial. Thus momentum becomes twice its initial value.", "problem": ""}

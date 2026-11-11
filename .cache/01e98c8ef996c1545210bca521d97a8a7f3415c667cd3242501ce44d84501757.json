@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "B", "working": "Surface density σ = Q/(4πr²). For small drop: σ_s = 5µC/(4π(0.02)²). For big drop: total charge Q_b = 64×5µC = 320µC. Volume adds: r_b = 4×0.02 = 0.08 m. Thus σ_b = 320µC/(4π(0.08)²). Ratio σ_b/σ_s = (320/5)×(0.02²/0.08²) = 64×(1/16) = 4. Hence ratio is 4:1.", "problem": ""}

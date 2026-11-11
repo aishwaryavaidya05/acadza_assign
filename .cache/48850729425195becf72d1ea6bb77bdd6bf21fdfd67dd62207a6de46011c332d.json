@@ -1,0 +1,1 @@
+{"verdict": "defect", "repair": "answer_key", "edit": {"field": "answer", "find": "C", "replace": "A"}, "confidence": 0.99, "evidence": "Both independent solves give 50 V, which matches option A. The stored key C (130 V) is incorrect.", "student_reply": "Hey! We double‑checked the question and found the answer should be (A) 50 V. The key has been updated accordingly."}

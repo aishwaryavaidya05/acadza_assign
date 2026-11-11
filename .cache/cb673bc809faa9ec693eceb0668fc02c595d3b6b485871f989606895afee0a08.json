@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "A", "working": "X‑ray maximum energy = eV = 24800 eV → λ_max = hc/E = (6.6×10⁻³⁴·3×10⁸)/(24800·1.6×10⁻¹⁹) ≈ 5×10⁻¹¹ m. For an electron, λ = h/√(2mK). Setting λ = λ_max gives K = h²/(2mλ²). Plugging in h = 6.6×10⁻³⁴ J·s, m = 9.1×10⁻³¹ kg, λ = 5×10⁻¹¹ m: K ≈ 9.6×10⁻¹⁷ J ≈ 600 eV. Thus the required kinetic energy is about 600 eV.", "problem": ""}

@@ -1,0 +1,1 @@
+{"can_solve": false, "answer": null, "working": "The inductance value is missing, so the reactance X_L cannot be calculated, making the impedance indeterminate.", "problem": "Missing inductance value"}

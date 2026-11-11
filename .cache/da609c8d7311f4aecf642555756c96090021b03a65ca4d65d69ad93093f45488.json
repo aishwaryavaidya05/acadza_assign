@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "B", "working": "N(t)=N0 e^{-t/τ}. 6/48=0.125=e^{-3/τ}. ln(0.125)=-2.07944 ⇒ -3/τ=-2.07944 ⇒ τ=3/2.07944≈1.44 min. Option B matches.", "problem": ""}

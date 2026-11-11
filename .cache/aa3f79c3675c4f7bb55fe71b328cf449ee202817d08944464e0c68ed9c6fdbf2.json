@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "D", "working": "ω = 2π/T = 2π/16 = π/8 rad/s. v = ωA sin(ωt). At t=2 s, sin(ωt)=sin(π/4)=√2/2. Thus π = (π/8)A(√2/2) ⇒ A = 16/√2 = 8√2 m.", "problem": ""}

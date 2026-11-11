@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "C", "working": "Remaining fraction = (1/2)^{t/60}. Set (1/2)^{t/60}=1/8=(1/2)^3 → t/60=3 → t=180 days.", "problem": ""}

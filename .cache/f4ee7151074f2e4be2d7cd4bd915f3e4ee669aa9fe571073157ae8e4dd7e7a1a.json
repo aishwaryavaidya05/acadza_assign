@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "A", "working": "Linear expansion: ΔL = α L ΔT → α = ΔL/(L ΔT) = 0.0019/(1×100) = 1.9×10⁻⁵ /°C. Cubic coefficient α_c = 3α = 5.7×10⁻⁵ /°C. Option A matches this value.", "problem": ""}

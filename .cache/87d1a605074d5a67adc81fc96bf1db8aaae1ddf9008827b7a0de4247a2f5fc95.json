@@ -1,0 +1,1 @@
+{"can_solve": true, "answer": "A", "working": "In a series LCR circuit, V_L leads current by 90°, V_C lags by 90°, so V_L and V_C are 180° out of phase. The supply voltage is the phasor sum: V_supply = sqrt(V_R^2 + (V_L - V_C)^2) = sqrt(40^2 + (60-30)^2) = sqrt(1600+900)=sqrt(2500)=50 V.", "problem": ""}
