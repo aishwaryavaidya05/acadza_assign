@@ -23,7 +23,8 @@ for _s in (sys.stdout, sys.stderr):
 BASE = pathlib.Path(__file__).resolve().parent
 DATA = BASE / "data"
 PROVIDER = os.getenv("PROVIDER", "groq").lower()
-MODEL = os.getenv("MODEL") or ("openai/gpt-oss-20b" if PROVIDER == "groq" else "gemini-3.1-flash-lite")ON_VERCEL = bool(os.getenv("VERCEL"))
+MODEL = os.getenv("MODEL") or ("openai/gpt-oss-20b" if PROVIDER == "groq" else "gemini-3.1-flash-lite")
+ON_VERCEL = bool(os.getenv("VERCEL"))
 CACHE = pathlib.Path(os.getenv("CACHE_DIR") or ("/tmp/acadza-cache" if ON_VERCEL else BASE / ".cache"))
 try: CACHE.mkdir(parents=True, exist_ok=True)
 except Exception: pass
